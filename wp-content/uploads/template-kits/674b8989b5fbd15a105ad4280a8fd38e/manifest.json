@@ -1,0 +1,989 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Urban Barber",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home  1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-e2189dcc1cb59038ba57beb01edc6069.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4.jpg",
+            "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Shave Club",
+            "screenshot": "screenshots\/shave-club.jpg",
+            "source": "templates\/shave-club-3faeb3f2f83bc2ccacafb0fbbc5f185d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Styles",
+            "screenshot": "screenshots\/styles.jpg",
+            "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Single",
+            "screenshot": "screenshots\/services-single.jpg",
+            "source": "templates\/services-single-e66e24fa0e1ebbee6671da86c9af5dbe.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us-5fee98f1c2fd3fcee500ca14bf1d5c6a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-2bee5c73c782c27d2b54081361d701d0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "pexels-rodnae-productions-7697715.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/pexels-rodnae-productions-7697715-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 138869,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "pexels-rodnae-productions-7697203.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/pexels-rodnae-productions-7697203-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-3-e2189dcc1cb59038ba57beb01edc6069.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/shave-club-3faeb3f2f83bc2ccacafb0fbbc5f185d.json",
+                    "name": "Shave Club"
+                },
+                {
+                    "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact-us-5fee98f1c2fd3fcee500ca14bf1d5c6a.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 218182,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "pexels-rodnae-productions-7697222.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/pexels-rodnae-productions-7697222-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 147047,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "firza-pratama-682610-unsplash-e1620821068765.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/firza-pratama-682610-unsplash-e1620821068765.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-e2189dcc1cb59038ba57beb01edc6069.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/shave-club-3faeb3f2f83bc2ccacafb0fbbc5f185d.json",
+                    "name": "Shave Club"
+                },
+                {
+                    "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 208851,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "pexels-rodnae-productions-7697197.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/pexels-rodnae-productions-7697197-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-single-e66e24fa0e1ebbee6671da86c9af5dbe.json",
+                    "name": "Services Single"
+                }
+            ],
+            "filesize": 319027,
+            "dimensions": [
+                1280,
+                1919
+            ]
+        },
+        {
+            "filename": "pexels-rodnae-productions-7697673.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/pexels-rodnae-productions-7697673-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-3-e2189dcc1cb59038ba57beb01edc6069.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 138159,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "pexels-rodnae-productions-7697444.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/pexels-rodnae-productions-7697444-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 39456,
+            "dimensions": [
+                640,
+                426
+            ]
+        },
+        {
+            "filename": "pexels-rodnae-productions-7697480.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/pexels-rodnae-productions-7697480-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-3-e2189dcc1cb59038ba57beb01edc6069.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 366632,
+            "dimensions": [
+                1280,
+                1920
+            ]
+        },
+        {
+            "filename": "photo-1507114845806-0347f6150324.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/photo-1507114845806-0347f6150324.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 168260,
+            "dimensions": [
+                934,
+                1401
+            ]
+        },
+        {
+            "filename": "hair-style-4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/hair-style-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 25669,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "hair-style-2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/hair-style-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 26545,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "andressa-voltolini-202190-unsplash-e1620821133727.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/andressa-voltolini-202190-unsplash-e1620821133727.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 278650,
+            "dimensions": [
+                1920,
+                1279
+            ]
+        },
+        {
+            "filename": "photo-1526988872567-eb8d48911240.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/photo-1526988872567-eb8d48911240.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 145961,
+            "dimensions": [
+                1000,
+                1250
+            ]
+        },
+        {
+            "filename": "edgar-chaparro-553249-unsplash-e1620821550376.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/edgar-chaparro-553249-unsplash-e1620821550376.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-e2189dcc1cb59038ba57beb01edc6069.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/shave-club-3faeb3f2f83bc2ccacafb0fbbc5f185d.json",
+                    "name": "Shave Club"
+                },
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                },
+                {
+                    "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-single-e66e24fa0e1ebbee6671da86c9af5dbe.json",
+                    "name": "Services Single"
+                }
+            ],
+            "filesize": 232012,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "testimonial-4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/testimonial-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/shave-club-3faeb3f2f83bc2ccacafb0fbbc5f185d.json",
+                    "name": "Shave Club"
+                },
+                {
+                    "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6477,
+            "dimensions": [
+                200,
+                200
+            ]
+        },
+        {
+            "filename": "testimonial-2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/testimonial-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/shave-club-3faeb3f2f83bc2ccacafb0fbbc5f185d.json",
+                    "name": "Shave Club"
+                },
+                {
+                    "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6039,
+            "dimensions": [
+                200,
+                200
+            ]
+        },
+        {
+            "filename": "testimonial-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/testimonial-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-981ee7c62fbad1a020b3ed90e6dc4962.json",
+                    "name": "Home  1"
+                },
+                {
+                    "source": "templates\/shave-club-3faeb3f2f83bc2ccacafb0fbbc5f185d.json",
+                    "name": "Shave Club"
+                },
+                {
+                    "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5207,
+            "dimensions": [
+                200,
+                200
+            ]
+        },
+        {
+            "filename": "royal-anwar-427525-unsplash-e1620821160281.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/royal-anwar-427525-unsplash-e1620821160281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                }
+            ],
+            "filesize": 233822,
+            "dimensions": [
+                1920,
+                1283
+            ]
+        },
+        {
+            "filename": "matthew-henry-173673-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/matthew-henry-173673-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 139249,
+            "dimensions": [
+                2500,
+                1667
+            ]
+        },
+        {
+            "filename": "service-7.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/service-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-e2189dcc1cb59038ba57beb01edc6069.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 24094,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "photo-1519019121902-896ed7312a9e.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/photo-1519019121902-896ed7312a9e.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-76b2958eee59562e4a8c1ea2ee434aa0.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-e2189dcc1cb59038ba57beb01edc6069.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                },
+                {
+                    "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-single-e66e24fa0e1ebbee6671da86c9af5dbe.json",
+                    "name": "Services Single"
+                }
+            ],
+            "filesize": 186702,
+            "dimensions": [
+                1650,
+                1101
+            ]
+        },
+        {
+            "filename": "service-8.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/service-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-e2189dcc1cb59038ba57beb01edc6069.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 37955,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "team-3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/team-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-e2189dcc1cb59038ba57beb01edc6069.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 16051,
+            "dimensions": [
+                400,
+                600
+            ]
+        },
+        {
+            "filename": "team-2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/team-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-e2189dcc1cb59038ba57beb01edc6069.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 25006,
+            "dimensions": [
+                400,
+                600
+            ]
+        },
+        {
+            "filename": "pexels-photo-53760.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/pexels-photo-53760.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-61c8fbf25db0a22bf7dcb7a7661e6162.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-ec1cd2d530346617b85ca992e5eaf0aa.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us-5fee98f1c2fd3fcee500ca14bf1d5c6a.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 536654,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "tyler-nix-534268-unsplash-e1620821588102.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/tyler-nix-534268-unsplash-e1620821588102.jpg",
+            "templates": [
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                }
+            ],
+            "filesize": 316893,
+            "dimensions": [
+                980,
+                1470
+            ]
+        },
+        {
+            "filename": "christian-blankenship-513197-unsplash-e1620821696226.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/christian-blankenship-513197-unsplash-e1620821696226.jpg",
+            "templates": [
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                }
+            ],
+            "filesize": 282951,
+            "dimensions": [
+                980,
+                1470
+            ]
+        },
+        {
+            "filename": "pexels-photo-852485.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/pexels-photo-852485.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                }
+            ],
+            "filesize": 96529,
+            "dimensions": [
+                640,
+                426
+            ]
+        },
+        {
+            "filename": "berwin-coroza-495280-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/berwin-coroza-495280-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                }
+            ],
+            "filesize": 216833,
+            "dimensions": [
+                1000,
+                1484
+            ]
+        },
+        {
+            "filename": "imani-clovis-24990-unsplash-e1620824640125.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/imani-clovis-24990-unsplash-e1620824640125.jpg",
+            "templates": [
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                }
+            ],
+            "filesize": 468044,
+            "dimensions": [
+                1920,
+                1920
+            ]
+        },
+        {
+            "filename": "pexels-ante-6429315-scaled.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/pexels-ante-6429315-500x715.jpg",
+            "templates": [
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                }
+            ],
+            "filesize": 365428,
+            "dimensions": [
+                1791,
+                2560
+            ]
+        },
+        {
+            "filename": "pexels-ralph-rabago-3214807-scaled.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/pexels-ralph-rabago-3214807-500x889.jpg",
+            "templates": [
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                }
+            ],
+            "filesize": 521440,
+            "dimensions": [
+                1441,
+                2560
+            ]
+        },
+        {
+            "filename": "andre-hunter-643238-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/andre-hunter-643238-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                }
+            ],
+            "filesize": 263609,
+            "dimensions": [
+                2500,
+                1668
+            ]
+        },
+        {
+            "filename": "slim-emcee-ug-the-poet-truth_from_africa_photography-449308-unsplash-e1620821735580.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/slim-emcee-ug-the-poet-truth_from_africa_photography-449308-unsplash-e1620821735580.jpg",
+            "templates": [
+                {
+                    "source": "templates\/styles-5edcf3363c5d9a153079f6e2256f5019.json",
+                    "name": "Styles"
+                }
+            ],
+            "filesize": 227912,
+            "dimensions": [
+                1600,
+                1067
+            ]
+        },
+        {
+            "filename": "pexels-photo-969373.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2018\/07\/pexels-photo-969373.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/services-f141a69cd897487ac424fa85daaf435d.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 74947,
+            "dimensions": [
+                500,
+                375
+            ]
+        },
+        {
+            "filename": "np_scissor_1928936_E2CB00.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/39\/2019\/01\/np_scissor_1928936_E2CB00.png",
+            "templates": [
+                {
+                    "source": "templates\/popup-2bee5c73c782c27d2b54081361d701d0.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 6302,
+            "dimensions": [
+                150,
+                150
+            ]
+        }
+    ]
+}
